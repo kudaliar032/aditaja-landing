@@ -1,0 +1,41 @@
+baseURL = "https://aditaja.my.id/"
+
+# include content marked as draft
+buildDrafts = false
+
+# include content with publishdate in the future
+buildFuture = false
+
+# include content already expired
+buildExpired = false
+
+# enable this to make all relative URLs relative to content root. Note that this does not affect absolute URLs.
+relativeURLs = true
+disableRSS = true
+enableRobotsTXT = true
+editor = "vim"
+languageCode = "en"
+language = "en"
+theme = "vncnt-hugo"
+title = "· Aditya Rahman ·"
+
+[permalinks]
+  fixed = ":title/"
+  posts = "posts/:slug/"
+
+[params]
+  author = "Aditya Rahman"
+  email = "mail@aditaja.my.id"
+  description = "My landing page"
+  bio = "DevOps Engineer.  \nBrainware."
+  avatar = "https://storage.googleapis.com/adits-bucket/dicoding/photos/me/square-bw.jpg"
+  favicon = "img/favicon.ico"
+  error404 = "There is no such page."
+
+  [params.contact]
+    leanpub = "https://aditaja.my.id"
+    github = "https://github.com/kudaliar032"
+    instagram = "https://instagram.com/kudaliar032"
+    twitter = "https://twitter.com/kudaliar032"
+    facebook = "https://facebook.com/kudaliar032"
+    linkedin = "https://www.linkedin.com/in/adityarahman032"
