@@ -28,7 +28,7 @@ title = "· Aditya Rahman ·"
   email = "mail@aditaja.my.id"
   description = "My landing page"
   bio = "DevOps Engineer.  \nBrainware."
-  avatar = "https://storage.googleapis.com/adits-bucket/dicoding/photos/me/square-bw.jpg"
+  avatar = "https://storage.googleapis.com/adits-bucket/img/me/square-bw.jpg"
   favicon = "img/favicon.ico"
   error404 = "There is no such page."
 
