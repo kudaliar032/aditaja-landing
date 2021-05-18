@@ -28,7 +28,7 @@ title = "· Aditya Rahman ·"
   email = "mail@aditaja.my.id"
   description = "My landing page"
   bio = "DevOps Engineer  \nIndonesia"
-  avatar = "https://res.cloudinary.com/kudaliar032/image/upload/photos/me/adit-min-bw_jmbuak.webp"
+  avatar = "img/photo-profile.webp"
   favicon = "img/favicon.ico"
   error404 = "There is no such page."
 
