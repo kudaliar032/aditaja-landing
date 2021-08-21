@@ -27,8 +27,8 @@ disableKinds = ["taxonomy", "term"]
 [params]
   author = "Aditya Rahman"
   email = "mail@aditaja.my.id"
-  description = "Aditya Rahman, DevOps Engineer, Indonesia"
-  bio = "DevOps Engineer  \nIndonesia"
+  description = "Aditya Rahman, DevOps Engineer at DOT Indonesia, Indonesia"
+  bio = "DevOps Engineer at DOT Indonesia  \nIndonesia"
   avatar = "img/photo-profile.webp"
   favicon = "img/favicon.ico"
 
@@ -39,4 +39,4 @@ disableKinds = ["taxonomy", "term"]
     instagram = "https://instagram.com/kudaliar032"
     twitter = "https://twitter.com/kudaliar032"
     facebook = "https://facebook.com/kudaliar032"
-    linkedin = "https://www.linkedin.com/in/adityarahman032"
+    linkedin = "https://linkedin.com/in/adityarahman032"
