@@ -1,4 +1,4 @@
-baseURL = "https://aditaja.my.id/"
+baseURL = "https://aditya.web.id/"
 
 # include content marked as draft
 buildDrafts = false
@@ -33,7 +33,7 @@ disableKinds = ["taxonomy", "term"]
   favicon = "img/favicon.ico"
 
   [params.contact]
-    leanpub = "https://blog.aditaja.my.id/"
+    leanpub = "https://blog.aditya.web.id/"
     github = "https://github.com/kudaliar032"
     gitlab = "https://gitlab.com/kudaliar032"
     instagram = "https://instagram.com/kudaliar032"
